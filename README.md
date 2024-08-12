@@ -31,6 +31,6 @@ License
 License: MIT
 
 ## Acknowledgments:
-This is one of Garage eduacation's use cases, and i used Et3lm Online's implementation ofit as a reference for me.
+This is one of Garage eduacation's use cases, and i used Et3lm Online's implementation of it as a reference for me.
 This project was developed using SQL Server Integration Services (SSIS) and real-world signaling data processing scenarios.
 
