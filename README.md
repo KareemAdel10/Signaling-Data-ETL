@@ -6,6 +6,9 @@ This project focuses on building a robust ETL (Extract, Transform, Load) pipelin
 ### ETL Pipeline
 - Source Data: Subscriber signaling data, including activities like calls, browsing, and SMS, collected by the network vendor in real-time and in bulk.
 - Processing: The pipeline processes dumped files, handles errors, and maintains an audit of processed records.
+![image](https://github.com/user-attachments/assets/bd81e6c4-dc16-4cd4-9df8-65a94ba0d398)
+![image](https://github.com/user-attachments/assets/84ffe08f-f3fb-4169-9c6b-e7c51d92281c)
+
 ### Audit Table
 dim_audit: Captures the number of rows extracted, inserted, and rejected for each file, offering a comprehensive overview of the ETL process.
 ### Error Handling
